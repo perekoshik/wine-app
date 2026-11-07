@@ -54,6 +54,6 @@ streamlit run app.py
 
 ## Деплой
 
-Приложение задеплоено на Streamlit Community Cloud: <ССЫЛКА>
+Приложение задеплоено на Streamlit Community Cloud: https://upload-6pjq4yf6a9btxz3aen6ksz.streamlit.app/
 
 Как деплоить: положить содержимое `wine_app/` в репозиторий на GitHub -> [share.streamlit.io](https://share.streamlit.io) -> `Create app` -> репозиторий, ветка `main`, Main file path – `app.py` (или `wine_app/app.py`, если папка лежит не в корне) -> `Advanced settings` -> Python version 3.12 -> `Deploy`.
